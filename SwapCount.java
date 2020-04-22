@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class SwapCount {
 
     // Complete the countSwaps function below.
     static void countSwaps(int[] a) {
